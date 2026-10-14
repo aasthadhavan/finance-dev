@@ -1,0 +1,5 @@
+
+.env
+*.key
+cosign.key
+secrets/
